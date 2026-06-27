@@ -107,187 +107,95 @@ export const siteContent = {
 } as const;
 
 export const projects = [
-
   {
-
     id: "01",
-
     title: "PROJECT_01.MP4",
-
     duration: "00:00:08",
-
-    media: "/assets/projects/project_01.mov",
-
+    media: "https://res.cloudinary.com/dz7iinpgm/video/upload/v1782601533/0628_atrrbk.mp4",
     type: "video" as const,
-
   },
-
   {
-
     id: "02",
-
     title: "PROJECT_02.MP4",
-
     duration: "00:00:12",
-
-    media: "/assets/projects/project_02.MOV", 
-
+    media: "https://res.cloudinary.com/dz7iinpgm/video/upload/v1782601550/0628_1_hxn5eb.mp4",
     type: "video" as const,
-
   },
-
   {
-
     id: "03",
-
     title: "PROJECT_03.MP4",
-
     duration: "00:00:15",
-
-    media: "/assets/projects/project_03.MOV",
-
+    media: "https://res.cloudinary.com/dz7iinpgm/video/upload/v1782601257/project_03_w5vt8s.mp4",
     type: "video" as const,
-
   },
-
   {
-
     id: "04",
-
     title: "PROJECT_04.MP4",
-
     duration: "00:00:10",
-
-    media: "/assets/projects/project_04.MOV",
-
+    media: "https://res.cloudinary.com/dz7iinpgm/video/upload/v1782601634/0628_3_qfkwxe.mp4",
     type: "video" as const,
-
   },
-
   {
-
     id: "05",
-
     title: "PROJECT_05.MP4",
-
     duration: "00:00:10",
-
-    media: "/assets/projects/project_05.MOV",
-
+    media: "https://res.cloudinary.com/dz7iinpgm/video/upload/v1782601697/0628_4_m7lbcr.mp4",
     type: "video" as const,
-
   },
-
   {
-
     id: "06",
-
     title: "PROJECT_06.MP4",
-
     duration: "00:00:10",
-
-    media: "/assets/projects/project_06.mp4",
-
+    media: "https://res.cloudinary.com/dz7iinpgm/video/upload/v1782601862/0628_5_vscjwp.mp4",
     type: "video" as const,
-
   },
-
   {
-
     id: "07",
-
     title: "PROJECT_07.MP4",
-
     duration: "00:00:10",
-
-    media: "/assets/projects/project_07.mov",
-
+    media: "https://res.cloudinary.com/dz7iinpgm/video/upload/v1782601859/0628_6_efndta.mp4",
     type: "video" as const,
-
   },
-
   {
-
     id: "08",
-
     title: "PROJECT_08.MP4",
-
     duration: "00:00:10",
-
-    media: "/assets/projects/project_08.mp4",
-
+    media: "https://res.cloudinary.com/dz7iinpgm/video/upload/v1782601888/0628_7_rl4yn6.mp4",
     type: "video" as const,
-
   },
-
   {
-
     id: "09",
-
     title: "PROJECT_09.MP4",
-
     duration: "00:00:10",
-
-    media: "/assets/projects/project_09.mp4",
-
+    media: "https://res.cloudinary.com/dz7iinpgm/video/upload/v1782601910/0628_8_nenekj.mp4",
     type: "video" as const,
-
   },
-
   {
-
     id: "10",
-
     title: "PROJECT_10.MP4",
-
     duration: "00:00:10",
-
-    media: "/assets/projects/project_10.MOV", 
-
+    media: "https://res.cloudinary.com/dz7iinpgm/video/upload/v1782602049/0628_9_xmbhmu.mp4",
     type: "video" as const,
-
   },
-
   {
-
     id: "11",
-
     title: "PROJECT_11.MP4",
-
     duration: "00:00:10",
-
-    media: "/assets/projects/project_11.MOV",
-
+    media: "https://res.cloudinary.com/dz7iinpgm/video/upload/v1782601256/project_11_ulg2dx.mp4",
     type: "video" as const,
-
   },
-
   {
-
     id: "12",
-
     title: "PROJECT_12.MP4",
-
     duration: "00:00:10",
-
-    media: "/assets/projects/project_12.MOV",
-
+    media: "https://res.cloudinary.com/dz7iinpgm/video/upload/v1782601257/project_12_mzpd5s.mp4",
     type: "video" as const,
-
   },
-
   {
-
     id: "13",
-
     title: "PROJECT_13.MP4",
-
     duration: "00:00:10",
-
-    media: "/assets/projects/project_13.MOV", 
-
+    media: "https://res.cloudinary.com/dz7iinpgm/video/upload/v1782602092/0628_10_w3uiiu.mp4",
     type: "video" as const,
-
   },
-
 ] as const;
