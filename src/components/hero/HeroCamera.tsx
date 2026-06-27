@@ -6,7 +6,7 @@ export default function HeroCamera() {
   return (
     <div className="relative w-[280px] sm:w-[340px] md:w-[400px] lg:w-[440px] shrink-0">
       <Image
-        src="/assets/hero/camera.png"
+        src="https://res.cloudinary.com/dz7iinpgm/video/upload/v1782604114/cd_esv8se.mp4"
         alt="MiniDV Camera"
         width={440}
         height={500}

@@ -36,7 +36,7 @@ export default function MediaPlayerWindow() {
               className="w-full h-full object-cover"
             >
               <source
-                src="/assets/hero/hero_video.mp4"
+                src="https://res.cloudinary.com/dz7iinpgm/video/upload/v1782604094/hero_video_j8xtyb.mp4"
                 type="video/mp4"
               />
             </video>

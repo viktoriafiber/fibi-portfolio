@@ -25,7 +25,7 @@ export default function Hero() {
           className="absolute inset-0 h-full w-full object-cover object-center scale-105 brightness-[0.85] saturate-[0.9]"
         >
           <source
-            src="/assets/hero/eye_background.mp4"
+           src="https://res.cloudinary.com/dz7iinpgm/video/upload/v1782604083/eye_background_ipqhyk.mp4"
             type="video/mp4"
           />
         </video>
